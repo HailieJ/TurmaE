@@ -1,7 +1,11 @@
-  P {
+ body {
+       background: #cccccc  
+  }
+
+P {
       text-align: center;
   }
 
-  body {
-       background: #cccccc  
-  }
+strong {
+  color: pink;
+}  
